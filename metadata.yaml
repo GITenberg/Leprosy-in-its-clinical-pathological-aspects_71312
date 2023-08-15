@@ -5,6 +5,9 @@ contributor:
     agent_name: Walker, Norman
     gutenberg_agent_id: '56170'
     url: http://www.gutenberg.org/2009/agents/56170
+covers:
+- cover_type: archival
+  image_path: 71312-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hansen, G. Armauer
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '56169'
     url: http://www.gutenberg.org/2009/agents/56169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71312#Leprosy-in-its-clinical-pathological-aspects
 gutenberg_issued: '2023-08-01'
 identifiers:
   gutenberg: '71312'
